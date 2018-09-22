@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"hero1","classId":1,"equips":[0,0,2,3,0],"faceIndex":0,"faceName":"hero1","traits":[],"initialLevel":1,"maxLevel":99,"name":"нетрудоустроенный Вячеслав Космонавтов","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"hero2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"hero2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Вячеслав Космонавтов","nickname":"","note":"","profile":""}
+]
